@@ -1,3 +1,2 @@
-# SortedCollections
- Operation of internet shop.
- The program has operation of warehouse and internet basket. 
+Online shop
+The program that helps in operating the online store 
