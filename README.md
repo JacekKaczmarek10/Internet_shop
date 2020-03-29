@@ -1,6 +1,9 @@
 The program that helps in operating the online store.
 
-This is magazine part which shows what magazin contains. 
+This is magazine part which shows what magazin contains.
+Items are stored in StockList. Every item is a stockItem. Stocklist has a Map where all item are stored.
+Program has methods that updates stockItems.
+Below we can see how program works. I uploaded some screenshots from my  programming environment intellij idea.
 
 ![](https://raw.githubusercontent.com/JacekKaczmarek10/SortedCollections/master/ss1.png)
 
