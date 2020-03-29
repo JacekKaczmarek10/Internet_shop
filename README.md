@@ -18,4 +18,4 @@ U can see also how much do u need to pay.
 
 At the end changes are made into quantity of items in magazine.
 
-![](https://raw.githubusercontent.com/JacekKaczmarek10/SortedCollections/master/Screenshoots_/ss3.png)
+![](https://raw.githubusercontent.com/JacekKaczmarek10/SortedCollections/master/Screenshoots_/ss4.png)
